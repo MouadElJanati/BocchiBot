@@ -6,15 +6,15 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "SlavyanDesu",
+  "author": "Mouad El Janati",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SlavyanDesu/BocchiBot.git"
+    "url": "https://github.com/MouadElJanati/BocchiBot.git"
   },
   "bugs": {
-    "url": "https://github.com/SlavyanDesu/BocchiBot/issues"
+    "url": "https://github.com/MouadElJanati/BocchiBot/issues"
   },
-  "homepage": "https://github.com/SlavyanDesu/BocchiBot",
+  "homepage": "https://github.com/MouadElJanati/BocchiBot",
   "license": "MIT",
   "dependencies": {
     "@justalk/pornhub-api": "^3.5.0",
